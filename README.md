@@ -7,9 +7,9 @@
 ---
 
 - 🔍 Looking for a work-study apprenticeship for my 2nd and 3rd year of the BUT Informatique
-- 💻 Currently building **Campus Manager**, a Windows app that syncs and organizes my university courses
+university courses
 - 🌱 Learning C, SQL and databases at the IUT
-- 📦 Shipping real projects: tests, releases, documentation
+
 
 ---
 
