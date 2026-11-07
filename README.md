@@ -2,10 +2,11 @@
 
 <p align="center"><b>1st year CS student - Paris, France</b></p>
 
-<p align="center">🎓 BUT Informatique · IUT Créteil-Vitry</p>
+<p align="center">🎓 BUT Informatique · IUT Créteil-Vitry · 🔍 Looking for an apprenticeship (2nd &amp; 3rd year of the BUT)</p>
 
 ---
 
+- 🔍 Looking for a work-study apprenticeship for my 2nd and 3rd year of the BUT Informatique
 - 💻 Currently building **Campus Manager**, a Windows app that syncs and organizes my university courses
 - 🌱 Learning C, SQL and databases at the IUT
 - 📦 Shipping real projects: tests, releases, documentation
