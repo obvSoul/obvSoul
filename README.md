@@ -7,17 +7,15 @@
 ---
 
 - 💻 Currently building **Campus Manager**, a Windows app that syncs and organizes my university courses
-- 🎮 Working on a **Fortnite chest tracker** (Python, computer vision, OBS)
 - 🌱 Learning C, SQL and databases at the IUT
 - 📦 Shipping real projects: tests, releases, documentation
 
 ---
 
-### 🚀 Projects
+### 🚀 Project
 
 **[Campus Manager](https://github.com/obvSoul/campus-manager)** - Moodle sync, auto-sorted offline library, assignments tracking and a desktop widget. 44 tests. [⬇️ Download](https://github.com/obvSoul/campus-manager/releases/latest)
 
-**Fortnite Chest Tracker** *(in progress)* - counts opened and destroyed chests from the OBS image, without touching the game.
 
 ---
 
